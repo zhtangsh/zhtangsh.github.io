@@ -23,6 +23,7 @@ email: mrzihan.tang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage for zhtangsh.
 domain: zhtangsh.github.io
+markdown: kramdown
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zhtangsh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zhtangsh
