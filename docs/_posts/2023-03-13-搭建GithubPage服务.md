@@ -1,6 +1,8 @@
 ---
-layout: post title:  "搭建GitHubPage服务"
-date:   2023-03-13 16:24:08 +0800 categories: tools
+layout: post
+title:  "搭建GitHubPage服务"
+date:   2023-03-13 16:24:08 +0800
+categories: tools
 ---
 
 # 搭建GitHubPage服务
@@ -58,5 +60,6 @@ bundle install
 bundle exec jekyll serve
 ```
 7. 在本地测试内容是否正常，并将内容推到github，然后即可在`https://username.github.io`来访问文档
+
 [rbenv-cn]: https://gitee.com/RubyKids/rbenv-cn
 [GitHub Page]: https://docs.github.com/en/pages
